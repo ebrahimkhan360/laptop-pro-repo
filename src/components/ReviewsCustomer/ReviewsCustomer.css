@@ -8,3 +8,6 @@
     margin-top: 20px;
     width: 300px;
 }
+.reviews-style:hover{
+    box-shadow: 1px 2px 5px;
+}
