@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header = () => {
+const NotFound = () => {
     return (
         <div>
-            
+          <h1>NotFound</h1>  
         </div>
     );
 };
 
-export default Header;
+export default NotFound;
